@@ -1,6 +1,6 @@
 # 👋 Hello, fellow dreamer! Welcome to my Happy Land! 🌈
 
-I'm delighted you found your way to my small corner of the GitHub universe. Here, you'll find a collection of my projects, scripts, ideas, and a bit of my coding journey. I love creating things that make life a little easier, brighter and more fun!
+I'm delighted you found your way to my small corner of the GitHub universe. Here, you'll find a collection of my projects, scripts, and ideas, that make life a little easier, brighter and more fun!
 
 ## 🌟 About Me
 
