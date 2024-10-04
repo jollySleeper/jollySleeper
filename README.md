@@ -18,6 +18,12 @@ Here are some of my notable projects:
 - ☀️ [Sunshine](https://github.com/yourusername/project2) - Ensuring a daily dosage of Vitamin D to your computer in an automated manner.
 - ⚡ [Zapped-Distro-Prompt](https://github.com/jollySleeper/Zapped-Distro-Prompt) - Supercharging your terminal with the power of static.
 
+## 💬 Favorite Quote
+
+_"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+
+**P.S.** That’s why I’m learning humor—so I can ensure my code is a hit, not a miss! 😆
+
 
 ## 🙏 Acknowledgments
 
@@ -25,5 +31,4 @@ Here are some of my notable projects:
 
 ---
 
-Feel free to explore my repositories and join me on this coding adventure! 😊
-
+Feel free to explore my repositories and join me on this adventure of staying happy & spreading happiness! 😊
