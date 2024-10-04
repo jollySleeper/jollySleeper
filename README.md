@@ -6,7 +6,7 @@ I'm delighted you found your way to my small corner of the GitHub universe. Here
 
 - 🔭 I’m currently working on building my Home Server.
 - 🌱 I’m currently learning Rust, Networking & Humor.
-- 🤔 I’m looking for help to make my Happy Land bigger & better.
+- 🤔 I’m looking for help to make my HappyLand bigger & better.
 - 💬 Ask me about Linux, SelfHosting & Open Source Softwares.
 - 👾 Fun fact: I automated the process of switching themes from dark to light—because even my code deserves a little variety in its life!
 
