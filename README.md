@@ -15,7 +15,7 @@ I'm delighted you found your way to my small corner of the GitHub universe. Here
 Here are some of my notable projects:
 
 - 🗨️ [QuoTerm](https://github.com/jollySleeper/Quoterm) - Who wouldn't like to be greeted by quotes in their terminal?
-- ☀️ [Sunshine](https://github.com/yourusername/project2) - Ensuring a daily dosage of Vitamin D to your computer in an automated manner.
+- ☀️ [Sunshine](https://github.com/jollySleeper/Sunshine) - Ensuring a daily dosage of Vitamin D to your computer in an automated manner.
 - ⚡ [Zapped-Distro-Prompt](https://github.com/jollySleeper/Zapped-Distro-Prompt) - Supercharging your terminal with the power of static.
 
 ## 💬 Favorite Quote
